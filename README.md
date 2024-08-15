@@ -29,7 +29,7 @@ Technologies
 <h5>How to reach me</h5>
 <div>
     <!-- Replace href with your links -->
-    <a href="(https://linkedin.com/in/mahlonreese)">
+    <a href="https://linkedin.com/in/mahlonreese">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
