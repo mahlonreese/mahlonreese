@@ -6,14 +6,13 @@
 <h3>SWE @ JM Family</h3> 
 <ul> <li>C# & Azure</li> </ul>
 
-<p>
-Interests
-<ul>
-  <li>development</li>
-  <li>fashion & fibers</li>
-  <li>sports</li>
-</ul>
-</p>
+<p>Languages</p>
+
+<p>Technologies</p>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[mahlonreese]&theme=github_dark" alt="Mahlon's GitHub Stats"/>
+</div>
 
 <h5>How to reach me</h5>
 
