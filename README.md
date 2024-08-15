@@ -5,6 +5,8 @@
 <h3>West Virginia University Graduate</h3>
 <h3>SWE @ JM Family</h3> 
 
+<br>
+
 <p>
 Programming Languages
 <p>
@@ -14,14 +16,15 @@ Programming Languages
 </p>
 </p>
 
+<br>
 
 <p>
 Technologies
-    <ul>
-        <li>Visual Studio</li>
-        <li>Azure</li>
-        <li>Fusion 360</li>
-    </ul>
+  <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,azure,git" />
+  </a>
+</p>
 </p>
 
 <div align="center">
