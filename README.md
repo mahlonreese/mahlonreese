@@ -6,9 +6,9 @@
 <h3>SWE @ JM Family</h3> 
 <ul> <li>C# & Azure</li> </ul>
 
-<p>Languages</p>
-
-<p>Technologies</p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/mahlonreese/mahlonreese/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahlonreese&theme=github_dark" alt="Mahlon's GitHub Stats"/>
