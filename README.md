@@ -7,11 +7,11 @@
 
 <p>
 Programming Languages
-    <ul>
-        <li>C#</li>
-        <li>Swift</li>
-        <li>R</li>
-    </ul>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,swift,r" />
+  </a>
+</p>
 </p>
 <p>
 Technologies
