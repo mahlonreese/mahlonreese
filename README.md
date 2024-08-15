@@ -4,7 +4,17 @@
 
 <h3>West Virginia University Graduate</h3>
 <h3>SWE @ JM Family</h3> 
+<ul> <li>C# & Azure</li> </ul>
 
+<p>
+Interests
+<ul>
+  <li>development</li>
+  <li>fashion & fibers</li>
+  <li>sports</li>
+</ul>
+</p>
 
 <h5>How to reach me</h5>
+
 
