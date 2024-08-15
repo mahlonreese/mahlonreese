@@ -11,7 +11,7 @@
 <p>Technologies</p>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[mahlonreese]&theme=github_dark" alt="Mahlon's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahlonreese&theme=github_dark" alt="Mahlon's GitHub Stats"/>
 </div>
 
 <h5>How to reach me</h5>
