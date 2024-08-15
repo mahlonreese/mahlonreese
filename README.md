@@ -1,9 +1,8 @@
 ## Hi there 👋
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-<p align="center">
-  <img src= "src=https://giphy.com/embed/gQbVzXQQbGO7C"/>
-</p>
+
 
 
 
