@@ -1,10 +1,15 @@
-# Mahlon Reese
+<h1> Mahlon Reese </h1>h1>
 
-## West Virginia Alumni (![image](https://github.com/user-attachments/assets/ab4ab6fd-a611-489c-af80-dd8968c535ac  =100x20)
+<h3>West Virginia University Alumni</h3>
+<img src="wvulogo.webp"  style="width:50px;height:60px;"
+<h3>SWE @ JM Family</h3> 
 
 
-## SWE @ JM Family
 
+
+
+
+<h5>How to reach me</h5>
 
 
 
