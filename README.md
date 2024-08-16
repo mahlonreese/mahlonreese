@@ -31,7 +31,7 @@ Technologies📱
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahlonreese&theme=github_dark" alt="Mahlon's GitHub Stats"/>
 </div>
 
-<h5>How to reach me</h5>
+<h5>How to reach me:</h5>
 <div>
     <!-- Replace href with your links -->
     <a href="https://linkedin.com/in/mahlonreese">
