@@ -22,7 +22,7 @@ Programming Languages🔣
 Technologies📱
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,azure,git" />
+    <img src="https://skillicons.dev/icons?i=arduino,visualstudio,azure,git" />
   </a>
 </p>
 </p>
