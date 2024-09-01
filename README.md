@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/90/30/9e/90309efe56e7ce8504259be5e38be4d7.jpg" alt="Italian Trulli">
+<h2> Welcome to my GitHub !!</h2>
 
 
 <h3>West Virginia University Graduate📚</h3>
