@@ -8,10 +8,10 @@
 <br>
 
 <p>
-Programming Languages🔣
+Languages🔣
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,r" />
+    <img src="https://skillicons.dev/icons?i=html,css,cs,js,react" />
   </a>
 </p>
 </p>
@@ -22,7 +22,7 @@ Programming Languages🔣
 Technologies📱
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,visualstudio,azure,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,azure,git,nodejs,figma,arduino" />
   </a>
 </p>
 </p>
